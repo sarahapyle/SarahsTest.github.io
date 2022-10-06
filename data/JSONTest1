@@ -9,7 +9,7 @@
         text: string       // may contain HTML markup
     },
     media: {               // optional if text present
-        url: string,       // url for featured media
+        url: "https://ddr.densho.org/ddr-densho-109-60/",       // url for featured media
         caption: string,   // optional; brief explanation of media content
         credit: string     // optional; creator of media content
     }
