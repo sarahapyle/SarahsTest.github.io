@@ -18,6 +18,16 @@
   
 <p>This section uses the iframe embedding tool found in the storymap making tool on the Knight Tools website. </p>
 
+<div id="storymap2"></div>
+    <!-- JavaScript-->
+    <script src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+    <script>
+      var storymap = new VCO.StoryMap('storymap2', 'ironmaiden.json');
+      window.onresize = function(event) {
+       storymap.updateDisplay();
+      }
+    </script> 
+  
 </body>
 </html>
 
