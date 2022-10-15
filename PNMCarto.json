@@ -6,7 +6,7 @@
                 "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Visit the <a href='https://www.tacoma.uw.edu/' target='_blank' rel='noopener'>website</a> to learn more</p>"
             },
             "media": {
-                    "url": "Photos/JLS from LOC.jpg",
+                    "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg",
                     "caption": "Lorem Ipsum"
             }
         },{
@@ -15,12 +15,12 @@
                 "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Lorem Ipsum</p>"
             },
             "location": {
-                "lat": 40.160,
-                "lon": -79.272,
+                "lat": -122.44243985251869,
+                "lon": 47.24543022163666,
                 "zoom": 11
             },
             "media": {
-                "url": "Photos/JLS from LOC.jpg"
+                "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg"
             }
         },{
             "text": {
