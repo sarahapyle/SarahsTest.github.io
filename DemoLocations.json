@@ -17,7 +17,7 @@
             "location": {
                 "lat": 47.24543022163666,
                 "lon": -122.44243985251869,
-                "zoom": 5
+                "zoom": 15
             },
             "media": {
                 "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg"
@@ -30,7 +30,7 @@
             "location": {
                 "lat": 47.24454603536629,
                 "lon": -122.44073801831624,
-                "zoom": 25
+                "zoom": 15
             },
             "media": {
                 "url": "https://www.tacoma.uw.edu/sites/default/files/styles/responsive_980x_/public/2020-12/whitney.jpg"
