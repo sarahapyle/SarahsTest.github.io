@@ -12,7 +12,7 @@
         },{
             "text": {
                 "headline": "Japanese Language School",
-                "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Lorem Ipsum</p>"
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
             },
             "location": {
                 "lat": 47.24543022163666,
@@ -24,16 +24,16 @@
             }
         },{
             "text": {
-                "headline": "Matt Mercurio (Vice President)",
-                "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
+                "headline": "Whitney Memorial United Methodist Church",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
             },
             "location": {
-                "lat": 40.4611167,
-                "lon": -79.9255654,
-                "zoom": 11
+                "lat": 47.24454603536629,
+                "lon": -122.44073801831624,
+                "zoom": 15
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"
+                "url": "https://www.tacoma.uw.edu/sites/default/files/styles/responsive_980x_/public/2020-12/whitney.jpg"
             }
         },{
             "text": {
