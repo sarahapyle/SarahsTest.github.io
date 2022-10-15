@@ -15,9 +15,9 @@
                 "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Lorem Ipsum</p>"
             },
             "location": {
-                "lat": -122.44243985251869,
-                "lon": 47.24543022163666,
-                "zoom": 11
+                "lat": 47.24543022163666,
+                "lon": -122.44243985251869,
+                "zoom": 13
             },
             "media": {
                 "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg"
