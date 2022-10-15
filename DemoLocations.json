@@ -3,11 +3,11 @@
             "type": "overview",
             "text": {
                 "headline": "Storymap Demo",
-                "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Visit the <a href='https://www.tacoma.uw.edu/' target='_blank' rel='noopener'>website</a> to learn more</p>"
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi iaculis porttitor nulla, eget fermentum sapien interdum ultrices. Sed eget aliquet felis. Praesent dictum fringilla rutrum. Sed auctor tellus quis pellentesque malesuada. Pellentesque facilisis ipsum at felis lobortis, ut faucibus augue pellentesque. Fusce sollicitudin aliquet nunc id porttitor. Donec finibus malesuada nisi sit amet rhoncus. Pellentesque interdum, magna id interdum mollis, purus velit volutpat sem, in varius enim sapien eget ligula. Curabitur ac lectus sit amet tortor finibus consequat. Integer et velit at augue posuere varius sed sit amet felis. Ut a urna tortor. Aliquam tristique molestie auctor.</p><p>Visit the <a href='https://www.tacoma.uw.edu/' target='_blank' rel='noopener'>website</a> to learn more</p>"
             },
             "media": {
-                    "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg",
-                    "caption": "Lorem Ipsum"
+                    "url": "https://www.historylink.org/Content/Media/Photos/Large/center-of-japantown-nihonmachi-13th-and-broadway-tacoma-1940.jpg",
+                    "caption": "13th & Broadway"
             }
         },{
             "text": {
