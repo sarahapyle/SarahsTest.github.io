@@ -6,7 +6,7 @@
                 "text": "<p>Lorem Ipsum</p><p>Lorem Ipsum</p><p>Visit the <a href='https://www.tacoma.uw.edu/' target='_blank' rel='noopener'>website</a> to learn more</p>"
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-blue-whitespace.png",
+                    "url": "Photos/JLS from LOC.jpg",
                     "caption": "Lorem Ipsum"
             }
         },{
@@ -20,7 +20,7 @@
                 "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/2017_Whitacre_James.png"
+                "url": "Photos/JLS from LOC.jpg"
             }
         },{
             "text": {
