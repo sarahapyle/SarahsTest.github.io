@@ -24,6 +24,19 @@
             }
         },{
             "text": {
+                "headline": "Lorenz Hotel",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
+            },
+            "location": {
+                "lat": 47.247117130301824,
+                "lon": -122.44049662844868,
+                "zoom": 15
+            },
+            "media": {
+                "url": "https://tacomahistory.files.wordpress.com/2017/02/lorenz.jpg?w=357&h=280"
+            }
+        },{
+            "text": {
                 "headline": "Whitney Memorial United Methodist Church",
                 "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
             },
