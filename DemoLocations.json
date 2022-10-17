@@ -24,6 +24,19 @@
             }
         },{
             "text": {
+                "headline": "Pacific Hotel",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
+            },
+            "location": {
+                "lat": 47.250822777902,
+                "lon": -122.4391362320543,
+                "zoom": 15
+            },
+            "media": {
+                "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/wa/wa0500/wa0563/photos/370817pv.jpg"
+            }
+        },{
+            "text": {
                 "headline": "Lorenz Hotel",
                 "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur justo sit amet diam rhoncus.</p>"
             },
@@ -46,7 +59,7 @@
                 "zoom": 15
             },
             "media": {
-                "url": "https://www.tacoma.uw.edu/sites/default/files/styles/responsive_980x_/public/2020-12/whitney.jpg"
+                "url": "https://cdm17061.contentdm.oclc.org/digital/api/singleitem/image/p17061coll21/35957/default.jpg"
             }
         },{
             "text": {
